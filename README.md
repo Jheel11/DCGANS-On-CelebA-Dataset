@@ -152,9 +152,6 @@ generate_images()
 - Mid-training: Face-like structures emerge but still blurry.  
 - Later epochs: Faces become clearer and more detailed.  
 
-Sample **expected output (after training)**:  
-![Example Output](https://pytorch.org/tutorials/_images/sphx_glr_dcgan_faces_tutorial_001.png)  
-(*Generated faces from DCGAN model*)  
 
 ---
 
